@@ -96,7 +96,12 @@ Predict next-month temperature anomaly using previous 6 months.
 ## 📈 Evaluation Metrics
 
 - **MAE** — Mean Absolute Error  
-- **RMSE** — Root Mean Squared Error  
+- **RMSE** — Root Mean Squared Error
+- Linear Regression MAE: 0.7201785667434516
+- Linear Regression RMSE: 0.8860086546907915
+
+- Random Forest MAE: 0.8235796544828513
+- Random Forest RMSE: 1.235670222574386
 
 ---
 
