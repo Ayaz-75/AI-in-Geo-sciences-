@@ -2,7 +2,8 @@
 
 ## 📌 Domain
 **Climate Science | Global Environmental Change | Geosciences**
-🔗 **Reproducible Kaggle Implementation:**  
+
+#### 🔗 **Reproducible Kaggle Implementation:**  
 Full computational notebook available at: (https://www.kaggle.com/code/ayazlakho/global-temperature-anomaly-prediction) 
 
 ---
